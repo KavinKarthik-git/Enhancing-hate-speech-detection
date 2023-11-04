@@ -17,3 +17,5 @@ easymix_EM_mu_pt_es.ipynb is a notebook which shows the results for the twitter-
 easymix_EM_mu_pt_fr.ipynb is a notebook which shows the results for the twitter-xlm-roberta-base-sentiment multilingual model with easymix testing on the language french
 
 easymix_EM_mu_pt_pt.ipynb is a notebook which shows the results for the twitter-xlm-roberta-base-sentiment model with easymix training and testing on the language portuguese
+
+data is a folder which contains all the datasets used in the ipynb files and they are in tsv format
