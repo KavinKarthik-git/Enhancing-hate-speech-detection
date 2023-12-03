@@ -18,6 +18,6 @@ If you want to run the baselines change the base_model, lang and model_choice va
 if you want to run code for French data on xlm-r model then change:
 base_model = 'xlm-roberta-base'
 lang = 'french'
-model_choice = 3 ###select index from the model list
+model_choice = 3 select index from the model list
 
 To run the EasyMix, change only lang variable to run on the corresponding language data.
