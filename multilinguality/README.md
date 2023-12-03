@@ -10,7 +10,7 @@ You need to install
     3. sentencepiece
 
 ## Data files
-All the datasets are added in the data folder. While running the code change the file path accordingly.
+All the datasets are added in the 'multilingual_data' folder. While running the code change the file path accordingly.
 
 ## Run the code
 There are two files for easyMix.ipynb and baseline.ipynb to generate results for easymix and bert baseline models respectively.
